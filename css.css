@@ -1,0 +1,34 @@
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  border: 2px solid black;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+input, select {
+  cursor: pointer;
+}
+
+body {
+  text-align: center;
+  background: url("lebron.jpg");
+  background-size: cover;
+}
+
+p {
+  font-weight: bold;
+  color: black;
+  size: 100px;
+}
+
+#tableau {
+
+  border: 2px solid blue;
+  border-collapse: collapse;
+
+}
